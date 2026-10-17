@@ -1,0 +1,6 @@
+{
+  "name": "Albion Online T2-T3 Real-Time Refining Calculator",
+  "description": "High-performance, real-time Albion Online refining calculator for T2 and T3 materials across all 6 Royal Cities with live multi-user sync, RRR yield analysis, tax toggles, and batch profit maximization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
